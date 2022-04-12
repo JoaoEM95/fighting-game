@@ -1,5 +1,5 @@
 <template>
-  <FirstPage />
+  <FirstPage/>
 </template>
 
 <script>
